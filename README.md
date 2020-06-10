@@ -1,6 +1,12 @@
 # right-click-slate-search
 Universal chrome extension to allow users to highlight text, then Right Click to search Slate.
 
-On initial install you will need to [update the setting ](chrome://extensions/?options=gknefgbhjgfjflkdpemekfkiplahiffh).  Enter your institutions slate install domain.  ( For Macalester College Advancement it is **engage.macalester.edu**, for Illios Weslian it is **advance.iwu.edu**, enter whatever your institution uses.)
+On initial install you will need to **update the setting** 
+ * chrome://extensions/?options=gknefgbhjgfjflkdpemekfkiplahiffh
+ 
+Enter your institutions slate install domain.  
+ - For Macalester College Advancement it is **engage.macalester.edu**, 
+ - for Illinios Weslian it is **advance.iwu.edu**, 
+ - enter whatever your institution uses
 
 Afterwards, you should be able to highlight someone's name (say in your email), right click the highlighted text, and then click "Search Slate for Info" and it will open your slate instance, and search that name, or email, or id#
