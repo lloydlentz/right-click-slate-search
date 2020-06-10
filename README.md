@@ -3,7 +3,8 @@ Universal chrome extension to allow users to highlight text, then Right Click to
 
 ## [Install from Chrome Web Store here ](https://chrome.google.com/webstore/detail/lloyds-slate-right-click/gknefgbhjgfjflkdpemekfkiplahiffh)
 
-On initial install you will need to [**update the setting** ](chrome://extensions/?options=gknefgbhjgfjflkdpemekfkiplahiffh)
+On initial install you will need to **update the setting**.  Paste the following link into your chrome URL bar.
+ * chrome://extensions/?options=gknefgbhjgfjflkdpemekfkiplahiffh
  
 Enter your institutions slate install domain.  
  - For Macalester College Advancement it is **engage.macalester.edu**, 
