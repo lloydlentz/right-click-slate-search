@@ -1,6 +1,8 @@
 # right-click-slate-search
 Universal chrome extension to allow users to highlight text, then Right Click to search Slate.
 
+## [Install from Chrome Web Store here ](https://chrome.google.com/webstore/detail/lloyds-slate-right-click/gknefgbhjgfjflkdpemekfkiplahiffh)
+
 On initial install you will need to **update the setting** 
  * chrome://extensions/?options=gknefgbhjgfjflkdpemekfkiplahiffh
  
