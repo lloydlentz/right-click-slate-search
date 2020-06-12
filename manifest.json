@@ -1,7 +1,7 @@
 {
   "name": "Lloyd's Slate right-click to search",
   "description": "Highlight text (Name, Email, ID) on a webpage, rightclick, then choose search slate",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "permissions": [
     "contextMenus",
     "storage"
