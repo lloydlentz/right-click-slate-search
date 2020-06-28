@@ -16,7 +16,7 @@ function onClickHandler(info, tab) {
 //  console.log("domain: " + rtClickDomain);
   if (rlClickDomain){
 //    var punctuation = '!"#$%&\'()*+,-./:;<=>?[\\]^_`{|}~';
-    var regex = /[!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~]/g;
+    var regex = /[!"#$%&'()*+,./:;<=>?[\]^_`{|}~]/g;
     var cleanString = sText.replace(regex, '');
 
     console.log('Slate user domain for Right-Click extension currently is ' + rlClickDomain);
